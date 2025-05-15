@@ -120,9 +120,9 @@ Losgeld betalen mag, maar het risico ligt vooral in onvoldoende beveiliging en
 nalatigheid. Preventie en compliance zijn essentieel.
 
 
-[^1]: ICT magazine ‘moet het betalen van losgeld bij ransomware illegaal zijn?’.
+[^1]: [ICT magazine ‘moet het betalen van losgeld bij ransomware illegaal zijn?’](https://www.ictmagazine.nl/nieuws/moet-het-betalen-van-losgeld-bij-ransomware-illegaal-zijn/).
 
-[^2]: Dutch IT Channel ‘de juridische consequenties van ransomwarebetalingen’.
+[^2]: [Dutch IT Channel ‘de juridische consequenties van ransomwarebetalingen’](https://www.dutchitchannel.nl/news/183397/de-juridische-consequenties-van-ransomwarebetalingen).
 
-[^3]: Artikel 32 Algemene Verordening Gegevensbescherming.
+[^3]: [Artikel 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679).
 
